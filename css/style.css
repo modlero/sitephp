@@ -1,0 +1,18 @@
+.card {
+    width: 32%;
+    margin-left: 1%;
+}
+.link {
+    text-decoration : none;
+}
+.link:hover {
+    text-decoration : none;
+}
+.logo {
+    text-decoration : none;
+    color: #000;
+}
+.logo:hover {
+    text-decoration : none;
+    color: #007bff;
+}
